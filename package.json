@@ -1,0 +1,15 @@
+{
+    "name": "insomnia-plugin-id-ifier",
+    "version": "0.0.1",
+    "private": true,
+    "insomnia": {
+      "name": "id-ifier",
+      "description": "Generate a traceparent or a custom length hexadecimal string (e.g. traceid, spanid)"
+    },
+    "license": "MIT",
+    "author": {
+      "name": "Tim Chan",
+      "email": "hello-github@timc.me"
+    },
+    "main": "main.js"
+  }
